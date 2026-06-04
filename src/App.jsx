@@ -45,7 +45,7 @@ function App() {
       {/* Hero Section */}
       <section className="bg-primary text-white py-5">
         <div className="container text-center">
-          <h1 className="display-4 fw-bold">Annual Gala Night 2026</h1>
+          <h1 className="display-4 fw-bold">GDM Annual Gala Night 2026</h1>
           <p className="lead mb-2">Join us for an unforgettable evening of celebration.</p>
           <p className="mb-0">
             📅 April 20, 2026 &nbsp; | &nbsp; 🕒 6:00 PM &nbsp; | &nbsp; 📍 Washington, DC
